@@ -1,0 +1,680 @@
+<div id="problem_e14b5510db0d4e6cb13dc06975764581" class="problems-wrapper" role="group" aria-labelledby="e14b5510db0d4e6cb13dc06975764581-problem-title" data-problem-id="block-v1:FPOLY+ENT2225+2021_Fall+type@problem+block@e14b5510db0d4e6cb13dc06975764581" data-url="/courses/course-v1:FPOLY+ENT2225+2021_Fall/xblock/block-v1:FPOLY+ENT2225+2021_Fall+type@problem+block@e14b5510db0d4e6cb13dc06975764581/handler/xmodule_handler" data-problem-score="0.0" data-problem-total-possible="10.0" data-attempts-used="0" data-content="
+
+
+
+<h3 class="hd hd-3 problem-header" id="e14b5510db0d4e6cb13dc06975764581-problem-title" aria-describedby="block-v1:FPOLY+ENT2225+2021_Fall+type@problem+block@e14b5510db0d4e6cb13dc06975764581-problem-progress" tabindex="-1">
+  Trắc nghiệm cuối bài
+</h3>
+
+<div class="problem-progress" id="block-v1:FPOLY+ENT2225+2021_Fall+type@problem+block@e14b5510db0d4e6cb13dc06975764581-problem-progress"></div>
+
+<div class="problem">
+  <div>
+                        
+            <div class="poly">
+                <h3>CÂU 1:</h3>
+                <pre class="poly-body">Choose the phrase with the similar meaning with “Really? That’s unbelievable.”</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 1" role="group"><div class="choicegroup capa_inputtype" id="inputtype_e14b5510db0d4e6cb13dc06975764581_2_1">
+    <fieldset aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_2_1">
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_2_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_2_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_2_1" id="input_e14b5510db0d4e6cb13dc06975764581_2_1_choice_0" class="field-input input-radio" value="choice_0"/> You’ve got to be kidding!
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_2_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_2_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_2_1" id="input_e14b5510db0d4e6cb13dc06975764581_2_1_choice_1" class="field-input input-radio" value="choice_1"/> Long time no see.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_2_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_2_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_2_1" id="input_e14b5510db0d4e6cb13dc06975764581_2_1_choice_2" class="field-input input-radio" value="choice_2"/> You can say that again.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_2_1-choice_3-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_2_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_2_1" id="input_e14b5510db0d4e6cb13dc06975764581_2_1_choice_3" class="field-input input-radio" value="choice_3"/> I can’t complain.
+            </label>
+          </div>
+        <span id="answer_e14b5510db0d4e6cb13dc06975764581_2_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_e14b5510db0d4e6cb13dc06975764581_2_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 2:</h3>
+                <pre class="poly-body">Identify the car part for each definition.
+a light that indicates a turn</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 2" role="group"><div class="choicegroup capa_inputtype" id="inputtype_e14b5510db0d4e6cb13dc06975764581_3_1">
+    <fieldset aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_3_1">
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_3_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_3_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_3_1" id="input_e14b5510db0d4e6cb13dc06975764581_3_1_choice_0" class="field-input input-radio" value="choice_0"/> Turn signal light
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_3_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_3_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_3_1" id="input_e14b5510db0d4e6cb13dc06975764581_3_1_choice_1" class="field-input input-radio" value="choice_1"/> Turn light
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_3_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_3_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_3_1" id="input_e14b5510db0d4e6cb13dc06975764581_3_1_choice_2" class="field-input input-radio" value="choice_2"/> Light signal
+            </label>
+          </div>
+        <span id="answer_e14b5510db0d4e6cb13dc06975764581_3_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_e14b5510db0d4e6cb13dc06975764581_3_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 3:</h3>
+                <pre class="poly-body"><div class="poly-audio"><audio controls="controls" src="https://cms.poly.edu.vn/asset-v1:FPOLY+ENT2225+2020_T09+type@asset+block@U7-Q1.mp3"/></div>
+Listen and answer the question:
+The driver is ……………………. them.</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 3" role="group"><div class="choicegroup capa_inputtype" id="inputtype_e14b5510db0d4e6cb13dc06975764581_4_1">
+    <fieldset aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_4_1">
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_4_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_4_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_4_1" id="input_e14b5510db0d4e6cb13dc06975764581_4_1_choice_0" class="field-input input-radio" value="choice_0"/> Gesturing at
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_4_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_4_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_4_1" id="input_e14b5510db0d4e6cb13dc06975764581_4_1_choice_1" class="field-input input-radio" value="choice_1"/> Talking to
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_4_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_4_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_4_1" id="input_e14b5510db0d4e6cb13dc06975764581_4_1_choice_2" class="field-input input-radio" value="choice_2"/> Staring at
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_4_1-choice_3-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_4_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_4_1" id="input_e14b5510db0d4e6cb13dc06975764581_4_1_choice_3" class="field-input input-radio" value="choice_3"/> Honking at
+            </label>
+          </div>
+        <span id="answer_e14b5510db0d4e6cb13dc06975764581_4_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_e14b5510db0d4e6cb13dc06975764581_4_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 4:</h3>
+                <pre class="poly-body">A: Any problems?
+B: …………………….</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 4" role="group"><div class="choicegroup capa_inputtype" id="inputtype_e14b5510db0d4e6cb13dc06975764581_5_1">
+    <fieldset aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_5_1">
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_5_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_5_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_5_1" id="input_e14b5510db0d4e6cb13dc06975764581_5_1_choice_0" class="field-input input-radio" value="choice_0"/> I am sorry to hear that.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_5_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_5_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_5_1" id="input_e14b5510db0d4e6cb13dc06975764581_5_1_choice_1" class="field-input input-radio" value="choice_1"/> Thank goodness.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_5_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_5_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_5_1" id="input_e14b5510db0d4e6cb13dc06975764581_5_1_choice_2" class="field-input input-radio" value="choice_2"/> The sunroof wasn’t open.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_5_1-choice_3-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_5_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_5_1" id="input_e14b5510db0d4e6cb13dc06975764581_5_1_choice_3" class="field-input input-radio" value="choice_3"/> I just filled it up.
+            </label>
+          </div>
+        <span id="answer_e14b5510db0d4e6cb13dc06975764581_5_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_e14b5510db0d4e6cb13dc06975764581_5_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 5:</h3>
+                <pre class="poly-body">What is a good driving behavior?</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 5" role="group"><div class="choicegroup capa_inputtype" id="inputtype_e14b5510db0d4e6cb13dc06975764581_6_1">
+    <fieldset aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_6_1">
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_6_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_6_1">
+                <input type="checkbox" name="input_e14b5510db0d4e6cb13dc06975764581_6_1[]" id="input_e14b5510db0d4e6cb13dc06975764581_6_1_choice_0" class="field-input input-checkbox" value="choice_0"/> Text while driving
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_6_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_6_1">
+                <input type="checkbox" name="input_e14b5510db0d4e6cb13dc06975764581_6_1[]" id="input_e14b5510db0d4e6cb13dc06975764581_6_1_choice_1" class="field-input input-checkbox" value="choice_1"/> Maintain a safe following distance
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_6_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_6_1">
+                <input type="checkbox" name="input_e14b5510db0d4e6cb13dc06975764581_6_1[]" id="input_e14b5510db0d4e6cb13dc06975764581_6_1_choice_2" class="field-input input-checkbox" value="choice_2"/> Pay attention
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_6_1-choice_3-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_6_1">
+                <input type="checkbox" name="input_e14b5510db0d4e6cb13dc06975764581_6_1[]" id="input_e14b5510db0d4e6cb13dc06975764581_6_1_choice_3" class="field-input input-checkbox" value="choice_3"/> Talk on the phone
+            </label>
+          </div>
+        <span id="answer_e14b5510db0d4e6cb13dc06975764581_6_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_e14b5510db0d4e6cb13dc06975764581_6_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 6:</h3>
+                <pre class="poly-body">Identify the car part for each definition.
+a light at the back of the car?</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 6" role="group"><div class="choicegroup capa_inputtype" id="inputtype_e14b5510db0d4e6cb13dc06975764581_7_1">
+    <fieldset aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_7_1">
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_7_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_7_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_7_1" id="input_e14b5510db0d4e6cb13dc06975764581_7_1_choice_0" class="field-input input-radio" value="choice_0"/> Sunroof
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_7_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_7_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_7_1" id="input_e14b5510db0d4e6cb13dc06975764581_7_1_choice_1" class="field-input input-radio" value="choice_1"/> Headlight
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_7_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_7_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_7_1" id="input_e14b5510db0d4e6cb13dc06975764581_7_1_choice_2" class="field-input input-radio" value="choice_2"/> Windshield
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_7_1-choice_3-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_7_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_7_1" id="input_e14b5510db0d4e6cb13dc06975764581_7_1_choice_3" class="field-input input-radio" value="choice_3"/> Taillight
+            </label>
+          </div>
+        <span id="answer_e14b5510db0d4e6cb13dc06975764581_7_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_e14b5510db0d4e6cb13dc06975764581_7_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 7:</h3>
+                <pre class="poly-body">A: Was there much damage?
+B: ………………………….</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 7" role="group"><div class="choicegroup capa_inputtype" id="inputtype_e14b5510db0d4e6cb13dc06975764581_8_1">
+    <fieldset aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_8_1">
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_8_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_8_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_8_1" id="input_e14b5510db0d4e6cb13dc06975764581_8_1_choice_0" class="field-input input-radio" value="choice_0"/> Thank goodness.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_8_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_8_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_8_1" id="input_e14b5510db0d4e6cb13dc06975764581_8_1_choice_1" class="field-input input-radio" value="choice_1"/> I am so sorry.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_8_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_8_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_8_1" id="input_e14b5510db0d4e6cb13dc06975764581_8_1_choice_2" class="field-input input-radio" value="choice_2"/> I’ll only have to replace a taillight.
+            </label>
+          </div>
+        <span id="answer_e14b5510db0d4e6cb13dc06975764581_8_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_e14b5510db0d4e6cb13dc06975764581_8_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 8:</h3>
+                <pre class="poly-body">Choose the phrase with the similar meaning with “I totally agree with you.”</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 8" role="group"><div class="choicegroup capa_inputtype" id="inputtype_e14b5510db0d4e6cb13dc06975764581_9_1">
+    <fieldset aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_9_1">
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_9_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_9_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_9_1" id="input_e14b5510db0d4e6cb13dc06975764581_9_1_choice_0" class="field-input input-radio" value="choice_0"/> You can say that again.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_9_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_9_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_9_1" id="input_e14b5510db0d4e6cb13dc06975764581_9_1_choice_1" class="field-input input-radio" value="choice_1"/> Thank goodness for that.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_9_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_9_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_9_1" id="input_e14b5510db0d4e6cb13dc06975764581_9_1_choice_2" class="field-input input-radio" value="choice_2"/> Congratulations.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_9_1-choice_3-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_9_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_9_1" id="input_e14b5510db0d4e6cb13dc06975764581_9_1_choice_3" class="field-input input-radio" value="choice_3"/> Long time no see.
+            </label>
+          </div>
+        <span id="answer_e14b5510db0d4e6cb13dc06975764581_9_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_e14b5510db0d4e6cb13dc06975764581_9_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 9:</h3>
+                <pre class="poly-body">A: ……………………………
+B. You are right. It has been a long time.</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 9" role="group"><div class="choicegroup capa_inputtype" id="inputtype_e14b5510db0d4e6cb13dc06975764581_10_1">
+    <fieldset aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_10_1">
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_10_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_10_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_10_1" id="input_e14b5510db0d4e6cb13dc06975764581_10_1_choice_0" class="field-input input-radio" value="choice_0"/> I just can’t stop thinking about the accident.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_10_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_10_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_10_1" id="input_e14b5510db0d4e6cb13dc06975764581_10_1_choice_1" class="field-input input-radio" value="choice_1"/> Let’s have a cup of coffee!
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_10_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_10_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_10_1" id="input_e14b5510db0d4e6cb13dc06975764581_10_1_choice_2" class="field-input input-radio" value="choice_2"/> How’s your family?
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_10_1-choice_3-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_10_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_10_1" id="input_e14b5510db0d4e6cb13dc06975764581_10_1_choice_3" class="field-input input-radio" value="choice_3"/> Brad! Long time no see!
+            </label>
+          </div>
+        <span id="answer_e14b5510db0d4e6cb13dc06975764581_10_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_e14b5510db0d4e6cb13dc06975764581_10_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 10:</h3>
+                <pre class="poly-body">A: ……………………..
+B: Oh, no.</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 10" role="group"><div class="choicegroup capa_inputtype" id="inputtype_e14b5510db0d4e6cb13dc06975764581_11_1">
+    <fieldset aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_11_1">
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_11_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_11_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_11_1" id="input_e14b5510db0d4e6cb13dc06975764581_11_1_choice_0" class="field-input input-radio" value="choice_0"/> The other driver was tailgating and he hit my car.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_11_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_11_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_11_1" id="input_e14b5510db0d4e6cb13dc06975764581_11_1_choice_1" class="field-input input-radio" value="choice_1"/> Are you OK?
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_11_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_11_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_11_1" id="input_e14b5510db0d4e6cb13dc06975764581_11_1_choice_2" class="field-input input-radio" value="choice_2"/> Was there much damage?
+            </label>
+          </div>
+        <span id="answer_e14b5510db0d4e6cb13dc06975764581_11_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_e14b5510db0d4e6cb13dc06975764581_11_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 11:</h3>
+                <pre class="poly-body">A: How have you been?
+B: …………………….</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 11" role="group"><div class="choicegroup capa_inputtype" id="inputtype_e14b5510db0d4e6cb13dc06975764581_12_1">
+    <fieldset aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_12_1">
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_12_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_12_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_12_1" id="input_e14b5510db0d4e6cb13dc06975764581_12_1_choice_0" class="field-input input-radio" value="choice_0"/> Thank goodness for that.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_12_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_12_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_12_1" id="input_e14b5510db0d4e6cb13dc06975764581_12_1_choice_1" class="field-input input-radio" value="choice_1"/> I can’t complain.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_12_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_12_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_12_1" id="input_e14b5510db0d4e6cb13dc06975764581_12_1_choice_2" class="field-input input-radio" value="choice_2"/> You won’t believe what I just saw.
+            </label>
+          </div>
+        <span id="answer_e14b5510db0d4e6cb13dc06975764581_12_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_e14b5510db0d4e6cb13dc06975764581_12_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 12:</h3>
+                <pre class="poly-body">Choose the phrase with the similar meaning with “I have been fine.”</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 12" role="group"><div class="choicegroup capa_inputtype" id="inputtype_e14b5510db0d4e6cb13dc06975764581_13_1">
+    <fieldset aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_13_1">
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_13_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_13_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_13_1" id="input_e14b5510db0d4e6cb13dc06975764581_13_1_choice_0" class="field-input input-radio" value="choice_0"/> You can say that again.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_13_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_13_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_13_1" id="input_e14b5510db0d4e6cb13dc06975764581_13_1_choice_1" class="field-input input-radio" value="choice_1"/> I can’t complain.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_13_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_13_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_13_1" id="input_e14b5510db0d4e6cb13dc06975764581_13_1_choice_2" class="field-input input-radio" value="choice_2"/> Thank goodness for that.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_13_1-choice_3-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_13_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_13_1" id="input_e14b5510db0d4e6cb13dc06975764581_13_1_choice_3" class="field-input input-radio" value="choice_3"/> Long time no see.
+            </label>
+          </div>
+        <span id="answer_e14b5510db0d4e6cb13dc06975764581_13_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_e14b5510db0d4e6cb13dc06975764581_13_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 13:</h3>
+                <pre class="poly-body">Identify the car part for each definition.
+a part that keeps passengers safe during an accident.</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 13" role="group"><div class="choicegroup capa_inputtype" id="inputtype_e14b5510db0d4e6cb13dc06975764581_14_1">
+    <fieldset aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_14_1">
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_14_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_14_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_14_1" id="input_e14b5510db0d4e6cb13dc06975764581_14_1_choice_0" class="field-input input-radio" value="choice_0"/> Horn
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_14_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_14_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_14_1" id="input_e14b5510db0d4e6cb13dc06975764581_14_1_choice_1" class="field-input input-radio" value="choice_1"/> Sunroof
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_14_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_14_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_14_1" id="input_e14b5510db0d4e6cb13dc06975764581_14_1_choice_2" class="field-input input-radio" value="choice_2"/> Seatbelt
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_14_1-choice_3-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_14_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_14_1" id="input_e14b5510db0d4e6cb13dc06975764581_14_1_choice_3" class="field-input input-radio" value="choice_3"/> Gearshift
+            </label>
+          </div>
+        <span id="answer_e14b5510db0d4e6cb13dc06975764581_14_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_e14b5510db0d4e6cb13dc06975764581_14_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 14:</h3>
+                <pre class="poly-body">Words and phrases to describe good drivers</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 14" role="group"><div class="choicegroup capa_inputtype" id="inputtype_e14b5510db0d4e6cb13dc06975764581_15_1">
+    <fieldset aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_15_1">
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_15_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_15_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_15_1" id="input_e14b5510db0d4e6cb13dc06975764581_15_1_choice_0" class="field-input input-radio" value="choice_0"/> Pay attention, observe the speed limit, talk on the phone
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_15_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_15_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_15_1" id="input_e14b5510db0d4e6cb13dc06975764581_15_1_choice_1" class="field-input input-radio" value="choice_1"/> Pay attention, observe the speed limit, maintain a safe following distance
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_15_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_15_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_15_1" id="input_e14b5510db0d4e6cb13dc06975764581_15_1_choice_2" class="field-input input-radio" value="choice_2"/> Text while driving, observe the speed limit, maintain a safe following distance
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_15_1-choice_3-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_15_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_15_1" id="input_e14b5510db0d4e6cb13dc06975764581_15_1_choice_3" class="field-input input-radio" value="choice_3"/> Pay attention, not signal while turning, maintain a safe following distance
+            </label>
+          </div>
+        <span id="answer_e14b5510db0d4e6cb13dc06975764581_15_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_e14b5510db0d4e6cb13dc06975764581_15_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 15:</h3>
+                <pre class="poly-body">Identify the car part for each definition.
+a place where the driver can find information about speed and amount of gas.</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 15" role="group"><div class="choicegroup capa_inputtype" id="inputtype_e14b5510db0d4e6cb13dc06975764581_16_1">
+    <fieldset aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_16_1">
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_16_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_16_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_16_1" id="input_e14b5510db0d4e6cb13dc06975764581_16_1_choice_0" class="field-input input-radio" value="choice_0"/> Horn
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_16_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_16_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_16_1" id="input_e14b5510db0d4e6cb13dc06975764581_16_1_choice_1" class="field-input input-radio" value="choice_1"/> Dashboard
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="e14b5510db0d4e6cb13dc06975764581_16_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_e14b5510db0d4e6cb13dc06975764581_16_1">
+                <input type="radio" name="input_e14b5510db0d4e6cb13dc06975764581_16_1" id="input_e14b5510db0d4e6cb13dc06975764581_16_1_choice_2" class="field-input input-radio" value="choice_2"/> Windshield
+            </label>
+          </div>
+        <span id="answer_e14b5510db0d4e6cb13dc06975764581_16_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_e14b5510db0d4e6cb13dc06975764581_16_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+                    </div>
+  

@@ -1,0 +1,713 @@
+<div id="problem_0a8f699a278e4c148b33050e841b8b03" class="problems-wrapper" role="group" aria-labelledby="0a8f699a278e4c148b33050e841b8b03-problem-title" data-problem-id="block-v1:FPOLY+ENT2225+2021_Fall+type@problem+block@0a8f699a278e4c148b33050e841b8b03" data-url="/courses/course-v1:FPOLY+ENT2225+2021_Fall/xblock/block-v1:FPOLY+ENT2225+2021_Fall+type@problem+block@0a8f699a278e4c148b33050e841b8b03/handler/xmodule_handler" data-problem-score="0.0" data-problem-total-possible="10.0" data-attempts-used="0" data-content="
+
+
+
+<h3 class="hd hd-3 problem-header" id="0a8f699a278e4c148b33050e841b8b03-problem-title" aria-describedby="block-v1:FPOLY+ENT2225+2021_Fall+type@problem+block@0a8f699a278e4c148b33050e841b8b03-problem-progress" tabindex="-1">
+  Trắc nghiệm cuối bài
+</h3>
+
+<div class="problem-progress" id="block-v1:FPOLY+ENT2225+2021_Fall+type@problem+block@0a8f699a278e4c148b33050e841b8b03-problem-progress"></div>
+
+<div class="problem">
+  <div>
+                        
+            <div class="poly">
+                <h3>CÂU 1:</h3>
+                <pre class="poly-body">Someone with nice physical features is …………..</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 1" role="group"><div class="choicegroup capa_inputtype" id="inputtype_0a8f699a278e4c148b33050e841b8b03_2_1">
+    <fieldset aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_2_1">
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_2_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_2_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_2_1" id="input_0a8f699a278e4c148b33050e841b8b03_2_1_choice_0" class="field-input input-radio" value="choice_0"/> Patient
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_2_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_2_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_2_1" id="input_0a8f699a278e4c148b33050e841b8b03_2_1_choice_1" class="field-input input-radio" value="choice_1"/> Attractive
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_2_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_2_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_2_1" id="input_0a8f699a278e4c148b33050e841b8b03_2_1_choice_2" class="field-input input-radio" value="choice_2"/> Health
+            </label>
+          </div>
+        <span id="answer_0a8f699a278e4c148b33050e841b8b03_2_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_0a8f699a278e4c148b33050e841b8b03_2_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 2:</h3>
+                <pre class="poly-body">I don’t use any …………………….. when I get ready in the morning.</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 2" role="group"><div class="choicegroup capa_inputtype" id="inputtype_0a8f699a278e4c148b33050e841b8b03_3_1">
+    <fieldset aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_3_1">
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_3_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_3_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_3_1" id="input_0a8f699a278e4c148b33050e841b8b03_3_1_choice_0" class="field-input input-radio" value="choice_0"/> Manicure
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_3_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_3_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_3_1" id="input_0a8f699a278e4c148b33050e841b8b03_3_1_choice_1" class="field-input input-radio" value="choice_1"/> Wrinkles
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_3_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_3_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_3_1" id="input_0a8f699a278e4c148b33050e841b8b03_3_1_choice_2" class="field-input input-radio" value="choice_2"/> Makeup
+            </label>
+          </div>
+        <span id="answer_0a8f699a278e4c148b33050e841b8b03_3_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_0a8f699a278e4c148b33050e841b8b03_3_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 3:</h3>
+                <pre class="poly-body">Choose the suitable procedure.
+When I was young, I never gained weight. Now that I'm older, I can't eat anything without gaining weight? Is ……. a good idea for me?</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 3" role="group"><div class="choicegroup capa_inputtype" id="inputtype_0a8f699a278e4c148b33050e841b8b03_4_1">
+    <fieldset aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_4_1">
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_4_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_4_1">
+                <input type="checkbox" name="input_0a8f699a278e4c148b33050e841b8b03_4_1[]" id="input_0a8f699a278e4c148b33050e841b8b03_4_1_choice_0" class="field-input input-checkbox" value="choice_0"/> Liposuction
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_4_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_4_1">
+                <input type="checkbox" name="input_0a8f699a278e4c148b33050e841b8b03_4_1[]" id="input_0a8f699a278e4c148b33050e841b8b03_4_1_choice_1" class="field-input input-checkbox" value="choice_1"/> Dieting
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_4_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_4_1">
+                <input type="checkbox" name="input_0a8f699a278e4c148b33050e841b8b03_4_1[]" id="input_0a8f699a278e4c148b33050e841b8b03_4_1_choice_2" class="field-input input-checkbox" value="choice_2"/> Hair restoration
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_4_1-choice_3-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_4_1">
+                <input type="checkbox" name="input_0a8f699a278e4c148b33050e841b8b03_4_1[]" id="input_0a8f699a278e4c148b33050e841b8b03_4_1_choice_3" class="field-input input-checkbox" value="choice_3"/> Cosmetics
+            </label>
+          </div>
+        <span id="answer_0a8f699a278e4c148b33050e841b8b03_4_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_0a8f699a278e4c148b33050e841b8b03_4_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 4:</h3>
+                <pre class="poly-body"><div class="poly-audio"><audio controls="controls" src="https://cms.poly.edu.vn/asset-v1:FPOLY+ENT2225+2020_T09+type@asset+block@U10-Q12.mp3"/></div>
+Listen and choose the correct statement.</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 4" role="group"><div class="choicegroup capa_inputtype" id="inputtype_0a8f699a278e4c148b33050e841b8b03_5_1">
+    <fieldset aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_5_1">
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_5_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_5_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_5_1" id="input_0a8f699a278e4c148b33050e841b8b03_5_1_choice_0" class="field-input input-radio" value="choice_0"/> He is marry a 25-year-old bald woman.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_5_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_5_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_5_1" id="input_0a8f699a278e4c148b33050e841b8b03_5_1_choice_1" class="field-input input-radio" value="choice_1"/> He has a wife.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_5_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_5_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_5_1" id="input_0a8f699a278e4c148b33050e841b8b03_5_1_choice_2" class="field-input input-radio" value="choice_2"/> He is losing hair.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_5_1-choice_3-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_5_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_5_1" id="input_0a8f699a278e4c148b33050e841b8b03_5_1_choice_3" class="field-input input-radio" value="choice_3"/> He is an old man.
+            </label>
+          </div>
+        <span id="answer_0a8f699a278e4c148b33050e841b8b03_5_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_0a8f699a278e4c148b33050e841b8b03_5_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 5:</h3>
+                <pre class="poly-body">Choose TRUE statement
+"A facelift is a surgery, and afterwards, you have to stay home for a number of days. It takes time to recover. Before you decide to have a facelift, ask your dermatologist or a cosmetic surgeon about a chemical peel. A chemical peel removes the top layer of skin and can improve the appearance of skin without surgery. Compare to surgery, a half-hour visit to your dermatologist would be a piece of cake!"</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 5" role="group"><div class="choicegroup capa_inputtype" id="inputtype_0a8f699a278e4c148b33050e841b8b03_6_1">
+    <fieldset aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_6_1">
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_6_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_6_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_6_1" id="input_0a8f699a278e4c148b33050e841b8b03_6_1_choice_0" class="field-input input-radio" value="choice_0"/> A facelift takes time to recover.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_6_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_6_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_6_1" id="input_0a8f699a278e4c148b33050e841b8b03_6_1_choice_1" class="field-input input-radio" value="choice_1"/> You have to stay at home for a few days before a facelift.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_6_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_6_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_6_1" id="input_0a8f699a278e4c148b33050e841b8b03_6_1_choice_2" class="field-input input-radio" value="choice_2"/> You will save time with a facelift.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_6_1-choice_3-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_6_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_6_1" id="input_0a8f699a278e4c148b33050e841b8b03_6_1_choice_3" class="field-input input-radio" value="choice_3"/> A chemical peel is a kind of surgery.
+            </label>
+          </div>
+        <span id="answer_0a8f699a278e4c148b33050e841b8b03_6_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_0a8f699a278e4c148b33050e841b8b03_6_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 6:</h3>
+                <pre class="poly-body">I don’t like my hair style. I really need a …………….. now.</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 6" role="group"><div class="choicegroup capa_inputtype" id="inputtype_0a8f699a278e4c148b33050e841b8b03_7_1">
+    <fieldset aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_7_1">
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_7_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_7_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_7_1" id="input_0a8f699a278e4c148b33050e841b8b03_7_1_choice_0" class="field-input input-radio" value="choice_0"/> Pedicure
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_7_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_7_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_7_1" id="input_0a8f699a278e4c148b33050e841b8b03_7_1_choice_1" class="field-input input-radio" value="choice_1"/> Haircut
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_7_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_7_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_7_1" id="input_0a8f699a278e4c148b33050e841b8b03_7_1_choice_2" class="field-input input-radio" value="choice_2"/> Facial
+            </label>
+          </div>
+        <span id="answer_0a8f699a278e4c148b33050e841b8b03_7_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_0a8f699a278e4c148b33050e841b8b03_7_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 7:</h3>
+                <pre class="poly-body">Choose the suitable procedure.
+I forgot to use sunscreen, I know my skin looks so terrible. I think I should get ………</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 7" role="group"><div class="choicegroup capa_inputtype" id="inputtype_0a8f699a278e4c148b33050e841b8b03_8_1">
+    <fieldset aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_8_1">
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_8_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_8_1">
+                <input type="checkbox" name="input_0a8f699a278e4c148b33050e841b8b03_8_1[]" id="input_0a8f699a278e4c148b33050e841b8b03_8_1_choice_0" class="field-input input-checkbox" value="choice_0"/> A haircut
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_8_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_8_1">
+                <input type="checkbox" name="input_0a8f699a278e4c148b33050e841b8b03_8_1[]" id="input_0a8f699a278e4c148b33050e841b8b03_8_1_choice_1" class="field-input input-checkbox" value="choice_1"/> A facial
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_8_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_8_1">
+                <input type="checkbox" name="input_0a8f699a278e4c148b33050e841b8b03_8_1[]" id="input_0a8f699a278e4c148b33050e841b8b03_8_1_choice_2" class="field-input input-checkbox" value="choice_2"/> A chemical peel
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_8_1-choice_3-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_8_1">
+                <input type="checkbox" name="input_0a8f699a278e4c148b33050e841b8b03_8_1[]" id="input_0a8f699a278e4c148b33050e841b8b03_8_1_choice_3" class="field-input input-checkbox" value="choice_3"/> A liposuction
+            </label>
+          </div>
+        <span id="answer_0a8f699a278e4c148b33050e841b8b03_8_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_0a8f699a278e4c148b33050e841b8b03_8_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 8:</h3>
+                <pre class="poly-body">Choose the suitable procedure for the speaker
+I have been losing hair so badly. I am almost bald. Do you think a ……… is an option for me?</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 8" role="group"><div class="choicegroup capa_inputtype" id="inputtype_0a8f699a278e4c148b33050e841b8b03_9_1">
+    <fieldset aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_9_1">
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_9_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_9_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_9_1" id="input_0a8f699a278e4c148b33050e841b8b03_9_1_choice_0" class="field-input input-radio" value="choice_0"/> Facelift
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_9_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_9_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_9_1" id="input_0a8f699a278e4c148b33050e841b8b03_9_1_choice_1" class="field-input input-radio" value="choice_1"/> Hair restoration
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_9_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_9_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_9_1" id="input_0a8f699a278e4c148b33050e841b8b03_9_1_choice_2" class="field-input input-radio" value="choice_2"/> Massage
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_9_1-choice_3-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_9_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_9_1" id="input_0a8f699a278e4c148b33050e841b8b03_9_1_choice_3" class="field-input input-radio" value="choice_3"/> Liposuction
+            </label>
+          </div>
+        <span id="answer_0a8f699a278e4c148b33050e841b8b03_9_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_0a8f699a278e4c148b33050e841b8b03_9_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 9:</h3>
+                <pre class="poly-body">A: I look so old. I have wrinkles around my eyes!
+B: Why don’t you have a ……………..</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 9" role="group"><div class="choicegroup capa_inputtype" id="inputtype_0a8f699a278e4c148b33050e841b8b03_10_1">
+    <fieldset aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_10_1">
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_10_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_10_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_10_1" id="input_0a8f699a278e4c148b33050e841b8b03_10_1_choice_0" class="field-input input-radio" value="choice_0"/> Facelift
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_10_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_10_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_10_1" id="input_0a8f699a278e4c148b33050e841b8b03_10_1_choice_1" class="field-input input-radio" value="choice_1"/> Haircut
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_10_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_10_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_10_1" id="input_0a8f699a278e4c148b33050e841b8b03_10_1_choice_2" class="field-input input-radio" value="choice_2"/> Liposuction
+            </label>
+          </div>
+        <span id="answer_0a8f699a278e4c148b33050e841b8b03_10_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_0a8f699a278e4c148b33050e841b8b03_10_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 10:</h3>
+                <pre class="poly-body">I have a terrible back pain because I work too hard last week. I really need a ………………….</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 10" role="group"><div class="choicegroup capa_inputtype" id="inputtype_0a8f699a278e4c148b33050e841b8b03_11_1">
+    <fieldset aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_11_1">
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_11_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_11_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_11_1" id="input_0a8f699a278e4c148b33050e841b8b03_11_1_choice_0" class="field-input input-radio" value="choice_0"/> Haircut
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_11_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_11_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_11_1" id="input_0a8f699a278e4c148b33050e841b8b03_11_1_choice_1" class="field-input input-radio" value="choice_1"/> Massage
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_11_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_11_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_11_1" id="input_0a8f699a278e4c148b33050e841b8b03_11_1_choice_2" class="field-input input-radio" value="choice_2"/> Facelift
+            </label>
+          </div>
+        <span id="answer_0a8f699a278e4c148b33050e841b8b03_11_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_0a8f699a278e4c148b33050e841b8b03_11_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 11:</h3>
+                <pre class="poly-body">I always use ……………… for my hair in the morning.</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 11" role="group"><div class="choicegroup capa_inputtype" id="inputtype_0a8f699a278e4c148b33050e841b8b03_12_1">
+    <fieldset aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_12_1">
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_12_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_12_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_12_1" id="input_0a8f699a278e4c148b33050e841b8b03_12_1_choice_0" class="field-input input-radio" value="choice_0"/> Hairspray
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_12_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_12_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_12_1" id="input_0a8f699a278e4c148b33050e841b8b03_12_1_choice_1" class="field-input input-radio" value="choice_1"/> Nail polish
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_12_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_12_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_12_1" id="input_0a8f699a278e4c148b33050e841b8b03_12_1_choice_2" class="field-input input-radio" value="choice_2"/> Lipstick
+            </label>
+          </div>
+        <span id="answer_0a8f699a278e4c148b33050e841b8b03_12_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_0a8f699a278e4c148b33050e841b8b03_12_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 12:</h3>
+                <pre class="poly-body">Choose the correct expression to fill in the gap.
+I ……….. about my body. I am so overweighed.</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 12" role="group"><div class="choicegroup capa_inputtype" id="inputtype_0a8f699a278e4c148b33050e841b8b03_13_1">
+    <fieldset aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_13_1">
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_13_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_13_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_13_1" id="input_0a8f699a278e4c148b33050e841b8b03_13_1_choice_0" class="field-input input-radio" value="choice_0"/> Think I'll pass
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_13_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_13_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_13_1" id="input_0a8f699a278e4c148b33050e841b8b03_13_1_choice_1" class="field-input input-radio" value="choice_1"/> Am difficult
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_13_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_13_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_13_1" id="input_0a8f699a278e4c148b33050e841b8b03_13_1_choice_2" class="field-input input-radio" value="choice_2"/> Am at my wit's end
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_13_1-choice_3-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_13_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_13_1" id="input_0a8f699a278e4c148b33050e841b8b03_13_1_choice_3" class="field-input input-radio" value="choice_3"/> Take time to recover
+            </label>
+          </div>
+        <span id="answer_0a8f699a278e4c148b33050e841b8b03_13_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_0a8f699a278e4c148b33050e841b8b03_13_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 13:</h3>
+                <pre class="poly-body"><div class="poly-audio"><audio controls="controls" src="https://cms.poly.edu.vn/asset-v1:FPOLY+ENT2225+2020_T09+type@asset+block@U10-Q11.mp3"/></div>
+Listen and choose the correct statement.</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 13" role="group"><div class="choicegroup capa_inputtype" id="inputtype_0a8f699a278e4c148b33050e841b8b03_14_1">
+    <fieldset aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_14_1">
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_14_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_14_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_14_1" id="input_0a8f699a278e4c148b33050e841b8b03_14_1_choice_0" class="field-input input-radio" value="choice_0"/> Helen Keller is blind and deaf.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_14_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_14_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_14_1" id="input_0a8f699a278e4c148b33050e841b8b03_14_1_choice_1" class="field-input input-radio" value="choice_1"/> Helen Keller has beautiful skin.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_14_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_14_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_14_1" id="input_0a8f699a278e4c148b33050e841b8b03_14_1_choice_2" class="field-input input-radio" value="choice_2"/> Helen Keller is beautiful.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_14_1-choice_3-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_14_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_14_1" id="input_0a8f699a278e4c148b33050e841b8b03_14_1_choice_3" class="field-input input-radio" value="choice_3"/> Helen Keller is felt in the heart.
+            </label>
+          </div>
+        <span id="answer_0a8f699a278e4c148b33050e841b8b03_14_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_0a8f699a278e4c148b33050e841b8b03_14_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 14:</h3>
+                <pre class="poly-body">Which product is used for your teeth?</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 14" role="group"><div class="choicegroup capa_inputtype" id="inputtype_0a8f699a278e4c148b33050e841b8b03_15_1">
+    <fieldset aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_15_1">
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_15_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_15_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_15_1" id="input_0a8f699a278e4c148b33050e841b8b03_15_1_choice_0" class="field-input input-radio" value="choice_0"/> Soap
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_15_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_15_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_15_1" id="input_0a8f699a278e4c148b33050e841b8b03_15_1_choice_1" class="field-input input-radio" value="choice_1"/> A razor
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_15_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_15_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_15_1" id="input_0a8f699a278e4c148b33050e841b8b03_15_1_choice_2" class="field-input input-radio" value="choice_2"/> Toothpaste
+            </label>
+          </div>
+        <span id="answer_0a8f699a278e4c148b33050e841b8b03_15_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_0a8f699a278e4c148b33050e841b8b03_15_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 15:</h3>
+                <pre class="poly-body">Which product is used for makeup?</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 15" role="group"><div class="choicegroup capa_inputtype" id="inputtype_0a8f699a278e4c148b33050e841b8b03_16_1">
+    <fieldset aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_16_1">
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_16_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_16_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_16_1" id="input_0a8f699a278e4c148b33050e841b8b03_16_1_choice_0" class="field-input input-radio" value="choice_0"/> Lipstick
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_16_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_16_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_16_1" id="input_0a8f699a278e4c148b33050e841b8b03_16_1_choice_1" class="field-input input-radio" value="choice_1"/> Dental floss
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="0a8f699a278e4c148b33050e841b8b03_16_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_0a8f699a278e4c148b33050e841b8b03_16_1">
+                <input type="radio" name="input_0a8f699a278e4c148b33050e841b8b03_16_1" id="input_0a8f699a278e4c148b33050e841b8b03_16_1_choice_2" class="field-input input-radio" value="choice_2"/> Shampoo
+            </label>
+          </div>
+        <span id="answer_0a8f699a278e4c148b33050e841b8b03_16_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_0a8f699a278e4c148b33050e841b8b03_16_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+                    </div>
+  <div class="action">
+    <input type="hidden" name="problem_id" value="Trắc nghiệm cuối bài" />
+
+    <div class="submit-attempt-container">
+      <button type="button" class="submit btn-brand" data-submitting="Submitting" data-value="Submit" data-should-enable-submit-button="True" aria-describedby="submission_feedback_0a8f699a278e4c148b33050e841b8b03" >
+          <span class="submit-label">Submit</span>
+      </button>
+      <div class="submission-feedback" id="submission_feedback_0a8f699a278e4c148b33050e841b8b03">
+        <span class="sr">Some problems have options such as save, reset, hints, or show answer. These options follow the Submit button.</span>
+      </div>
+    </div>
+    <div class="problem-action-buttons-wrapper">
+    </div>
+  </div>
+    
+
+
+<div class="notification warning notification-gentle-alert
+      is-hidden"
+     tabindex="-1">
+    <span class="icon fa fa-exclamation-circle" aria-hidden="true"></span>
+    <span class="notification-message" aria-describedby="0a8f699a278e4c148b33050e841b8b03-problem-title">
+    </span>
+    <div class="notification-btn-wrapper">
+        <button type="button" class="btn btn-default btn-small notification-btn review-btn sr">Review</button>
+    </div>
+</div>
+
+    
+
+
+<div class="notification warning notification-save
+      is-hidden"
+     tabindex="-1">
+    <span class="icon fa fa-save" aria-hidden="true"></span>
+    <span class="notification-message" aria-describedby="0a8f699a278e4c148b33050e841b8b03-problem-title">None
+    </span>
+    <div class="notification-btn-wrapper">
+        <button type="button" class="btn btn-default btn-small notification-btn review-btn sr">Review</button>
+    </div>
+</div>
+
+    
+    
+
+
+<div class="notification general notification-show-answer
+      is-hidden"
+     tabindex="-1">
+    <span class="icon fa fa-info-circle" aria-hidden="true"></span>
+    <span class="notification-message" aria-describedby="0a8f699a278e4c148b33050e841b8b03-problem-title">Answers are displayed within the problem
+    </span>
+    <div class="notification-btn-wrapper">
+        <button type="button" class="btn btn-default btn-small notification-btn review-btn sr">Review</button>
+    </div>
+</div>
+
+</div>

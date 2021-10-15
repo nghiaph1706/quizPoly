@@ -1,0 +1,663 @@
+<div id="problem_cf929d8f9c114da8a2ae78fb0d61d9b5" class="problems-wrapper" role="group" aria-labelledby="cf929d8f9c114da8a2ae78fb0d61d9b5-problem-title" data-problem-id="block-v1:FPOLY+ENT2225+2021_Fall+type@problem+block@cf929d8f9c114da8a2ae78fb0d61d9b5" data-url="/courses/course-v1:FPOLY+ENT2225+2021_Fall/xblock/block-v1:FPOLY+ENT2225+2021_Fall+type@problem+block@cf929d8f9c114da8a2ae78fb0d61d9b5/handler/xmodule_handler" data-problem-score="0.0" data-problem-total-possible="10.0" data-attempts-used="0" data-content="
+
+
+
+<h3 class="hd hd-3 problem-header" id="cf929d8f9c114da8a2ae78fb0d61d9b5-problem-title" aria-describedby="block-v1:FPOLY+ENT2225+2021_Fall+type@problem+block@cf929d8f9c114da8a2ae78fb0d61d9b5-problem-progress" tabindex="-1">
+  Trắc nghiệm cuối bài
+</h3>
+
+<div class="problem-progress" id="block-v1:FPOLY+ENT2225+2021_Fall+type@problem+block@cf929d8f9c114da8a2ae78fb0d61d9b5-problem-progress"></div>
+
+<div class="problem">
+  <div>
+                        
+            <div class="poly">
+                <h3>CÂU 1:</h3>
+                <pre class="poly-body">This sentence is “correct” or “incorrect”?
+I don’t have a nail clipper. I gave it to no one.</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 1" role="group"><div class="choicegroup capa_inputtype" id="inputtype_cf929d8f9c114da8a2ae78fb0d61d9b5_2_1">
+    <fieldset aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_2_1">
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_2_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_2_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_2_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_2_1_choice_0" class="field-input input-radio" value="choice_0"/> Correct
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_2_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_2_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_2_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_2_1_choice_1" class="field-input input-radio" value="choice_1"/> Incorrect
+            </label>
+          </div>
+        <span id="answer_cf929d8f9c114da8a2ae78fb0d61d9b5_2_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_cf929d8f9c114da8a2ae78fb0d61d9b5_2_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 2:</h3>
+                <pre class="poly-body">…………….. can give him a shave at 4:00. You have to ask him to leave.</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 2" role="group"><div class="choicegroup capa_inputtype" id="inputtype_cf929d8f9c114da8a2ae78fb0d61d9b5_3_1">
+    <fieldset aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_3_1">
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_3_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_3_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_3_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_3_1_choice_0" class="field-input input-radio" value="choice_0"/> Someone
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_3_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_3_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_3_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_3_1_choice_1" class="field-input input-radio" value="choice_1"/> Anyone
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_3_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_3_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_3_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_3_1_choice_2" class="field-input input-radio" value="choice_2"/> No one
+            </label>
+          </div>
+        <span id="answer_cf929d8f9c114da8a2ae78fb0d61d9b5_3_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_cf929d8f9c114da8a2ae78fb0d61d9b5_3_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 3:</h3>
+                <pre class="poly-body">A: Excuse me. Where would I find sunscreen?
+B: ……………….</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 3" role="group"><div class="choicegroup capa_inputtype" id="inputtype_cf929d8f9c114da8a2ae78fb0d61d9b5_4_1">
+    <fieldset aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_4_1">
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_4_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_4_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_4_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_4_1_choice_0" class="field-input input-radio" value="choice_0"/> I couldn’t find any razors either.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_4_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_4_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_4_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_4_1_choice_1" class="field-input input-radio" value="choice_1"/> Have a look in the cosmetics section.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_4_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_4_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_4_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_4_1_choice_2" class="field-input input-radio" value="choice_2"/> I am sorry.
+            </label>
+          </div>
+        <span id="answer_cf929d8f9c114da8a2ae78fb0d61d9b5_4_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_cf929d8f9c114da8a2ae78fb0d61d9b5_4_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 4:</h3>
+                <pre class="poly-body"><div class="poly-audio"><audio controls="controls" src="https://cms.poly.edu.vn/asset-v1:FPOLY+ENT2225+2020_T09+type@asset+block@U9-Q4.mp3"/></div>
+Listen and choose the correct kind of salon service</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 4" role="group"><div class="choicegroup capa_inputtype" id="inputtype_cf929d8f9c114da8a2ae78fb0d61d9b5_5_1">
+    <fieldset aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_5_1">
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_5_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_5_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_5_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_5_1_choice_0" class="field-input input-radio" value="choice_0"/> Shave
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_5_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_5_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_5_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_5_1_choice_1" class="field-input input-radio" value="choice_1"/> Pedicure
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_5_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_5_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_5_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_5_1_choice_2" class="field-input input-radio" value="choice_2"/> Haircut
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_5_1-choice_3-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_5_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_5_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_5_1_choice_3" class="field-input input-radio" value="choice_3"/> Manicure
+            </label>
+          </div>
+        <span id="answer_cf929d8f9c114da8a2ae78fb0d61d9b5_5_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_cf929d8f9c114da8a2ae78fb0d61d9b5_5_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 5:</h3>
+                <pre class="poly-body">This sentence is “correct” or “incorrect”?
+They need some soap. They need to wash their hands.</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 5" role="group"><div class="choicegroup capa_inputtype" id="inputtype_cf929d8f9c114da8a2ae78fb0d61d9b5_6_1">
+    <fieldset aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_6_1">
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_6_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_6_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_6_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_6_1_choice_0" class="field-input input-radio" value="choice_0"/> Correct
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_6_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_6_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_6_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_6_1_choice_1" class="field-input input-radio" value="choice_1"/> Incorrect
+            </label>
+          </div>
+        <span id="answer_cf929d8f9c114da8a2ae78fb0d61d9b5_6_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_cf929d8f9c114da8a2ae78fb0d61d9b5_6_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 6:</h3>
+                <pre class="poly-body">A: ………………………………………….
+B: Yes. Jane can see you then.</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 6" role="group"><div class="choicegroup capa_inputtype" id="inputtype_cf929d8f9c114da8a2ae78fb0d61d9b5_7_1">
+    <fieldset aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_7_1">
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_7_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_7_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_7_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_7_1_choice_0" class="field-input input-radio" value="choice_0"/> Actually, that’s a little early for me.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_7_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_7_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_7_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_7_1_choice_1" class="field-input input-radio" value="choice_1"/> When would you like to come in?
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_7_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_7_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_7_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_7_1_choice_2" class="field-input input-radio" value="choice_2"/> Is there someone available after 4:00?
+            </label>
+          </div>
+        <span id="answer_cf929d8f9c114da8a2ae78fb0d61d9b5_7_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_cf929d8f9c114da8a2ae78fb0d61d9b5_7_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 7:</h3>
+                <pre class="poly-body">I don’t think there’s ……………. nail polish on that shelf.</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 7" role="group"><div class="choicegroup capa_inputtype" id="inputtype_cf929d8f9c114da8a2ae78fb0d61d9b5_8_1">
+    <fieldset aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_8_1">
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_8_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_8_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_8_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_8_1_choice_0" class="field-input input-radio" value="choice_0"/> Many
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_8_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_8_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_8_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_8_1_choice_1" class="field-input input-radio" value="choice_1"/> Any
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_8_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_8_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_8_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_8_1_choice_2" class="field-input input-radio" value="choice_2"/> Some
+            </label>
+          </div>
+        <span id="answer_cf929d8f9c114da8a2ae78fb0d61d9b5_8_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_cf929d8f9c114da8a2ae78fb0d61d9b5_8_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 8:</h3>
+                <pre class="poly-body">Choose the correct service at a spa or a salon
+My skin around my eyes is so dry. I really need a …………..</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 8" role="group"><div class="choicegroup capa_inputtype" id="inputtype_cf929d8f9c114da8a2ae78fb0d61d9b5_9_1">
+    <fieldset aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_9_1">
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_9_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_9_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_9_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_9_1_choice_0" class="field-input input-radio" value="choice_0"/> Facial
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_9_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_9_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_9_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_9_1_choice_1" class="field-input input-radio" value="choice_1"/> Haircut
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_9_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_9_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_9_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_9_1_choice_2" class="field-input input-radio" value="choice_2"/> Manicure
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_9_1-choice_3-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_9_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_9_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_9_1_choice_3" class="field-input input-radio" value="choice_3"/> Shave
+            </label>
+          </div>
+        <span id="answer_cf929d8f9c114da8a2ae78fb0d61d9b5_9_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_cf929d8f9c114da8a2ae78fb0d61d9b5_9_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 9:</h3>
+                <pre class="poly-body">Which sentence is correct?</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 9" role="group"><div class="choicegroup capa_inputtype" id="inputtype_cf929d8f9c114da8a2ae78fb0d61d9b5_10_1">
+    <fieldset aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_10_1">
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_10_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_10_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_10_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_10_1_choice_0" class="field-input input-radio" value="choice_0"/> I don’t use many mascara.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_10_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_10_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_10_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_10_1_choice_1" class="field-input input-radio" value="choice_1"/> I don’t have too many makeup.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_10_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_10_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_10_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_10_1_choice_2" class="field-input input-radio" value="choice_2"/> I use some face powder to makeup.
+            </label>
+          </div>
+        <span id="answer_cf929d8f9c114da8a2ae78fb0d61d9b5_10_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_cf929d8f9c114da8a2ae78fb0d61d9b5_10_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 10:</h3>
+                <pre class="poly-body">I didn’t ask ………… about the price.</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 10" role="group"><div class="choicegroup capa_inputtype" id="inputtype_cf929d8f9c114da8a2ae78fb0d61d9b5_11_1">
+    <fieldset aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_11_1">
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_11_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_11_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_11_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_11_1_choice_0" class="field-input input-radio" value="choice_0"/> Anyone
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_11_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_11_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_11_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_11_1_choice_1" class="field-input input-radio" value="choice_1"/> Someone
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_11_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_11_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_11_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_11_1_choice_2" class="field-input input-radio" value="choice_2"/> No one
+            </label>
+          </div>
+        <span id="answer_cf929d8f9c114da8a2ae78fb0d61d9b5_11_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_cf929d8f9c114da8a2ae78fb0d61d9b5_11_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 11:</h3>
+                <pre class="poly-body">This sentence is “correct” or “incorrect”?
+There isn’t anyone waiting.</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 11" role="group"><div class="choicegroup capa_inputtype" id="inputtype_cf929d8f9c114da8a2ae78fb0d61d9b5_12_1">
+    <fieldset aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_12_1">
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_12_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_12_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_12_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_12_1_choice_0" class="field-input input-radio" value="choice_0"/> Incorrect
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_12_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_12_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_12_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_12_1_choice_1" class="field-input input-radio" value="choice_1"/> Correct
+            </label>
+          </div>
+        <span id="answer_cf929d8f9c114da8a2ae78fb0d61d9b5_12_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_cf929d8f9c114da8a2ae78fb0d61d9b5_12_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 12:</h3>
+                <pre class="poly-body">Which sentence is correct?</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 12" role="group"><div class="choicegroup capa_inputtype" id="inputtype_cf929d8f9c114da8a2ae78fb0d61d9b5_13_1">
+    <fieldset aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_13_1">
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_13_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_13_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_13_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_13_1_choice_0" class="field-input input-radio" value="choice_0"/> There isn’t too many soup.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_13_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_13_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_13_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_13_1_choice_1" class="field-input input-radio" value="choice_1"/> There isn’t enough soup.
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_13_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_13_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_13_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_13_1_choice_2" class="field-input input-radio" value="choice_2"/> There isn’t some soup.
+            </label>
+          </div>
+        <span id="answer_cf929d8f9c114da8a2ae78fb0d61d9b5_13_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_cf929d8f9c114da8a2ae78fb0d61d9b5_13_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 13:</h3>
+                <pre class="poly-body">Let me get you ………………… scissors.</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 13" role="group"><div class="choicegroup capa_inputtype" id="inputtype_cf929d8f9c114da8a2ae78fb0d61d9b5_14_1">
+    <fieldset aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_14_1">
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_14_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_14_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_14_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_14_1_choice_0" class="field-input input-radio" value="choice_0"/> Any
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_14_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_14_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_14_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_14_1_choice_1" class="field-input input-radio" value="choice_1"/> Many
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_14_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_14_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_14_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_14_1_choice_2" class="field-input input-radio" value="choice_2"/> Some
+            </label>
+          </div>
+        <span id="answer_cf929d8f9c114da8a2ae78fb0d61d9b5_14_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_cf929d8f9c114da8a2ae78fb0d61d9b5_14_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 14:</h3>
+                <pre class="poly-body">There isn’t ……………… ahead of you, so you don’t have to wait long.</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 14" role="group"><div class="choicegroup capa_inputtype" id="inputtype_cf929d8f9c114da8a2ae78fb0d61d9b5_15_1">
+    <fieldset aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_15_1">
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_15_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_15_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_15_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_15_1_choice_0" class="field-input input-radio" value="choice_0"/> Someone
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_15_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_15_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_15_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_15_1_choice_1" class="field-input input-radio" value="choice_1"/> Anyone
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_15_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_15_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_15_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_15_1_choice_2" class="field-input input-radio" value="choice_2"/> No one
+            </label>
+          </div>
+        <span id="answer_cf929d8f9c114da8a2ae78fb0d61d9b5_15_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_cf929d8f9c114da8a2ae78fb0d61d9b5_15_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+            
+            <div class="poly">
+                <h3>CÂU 15:</h3>
+                <pre class="poly-body">………….. can predict the future. It is impossible.</pre>
+            </div>
+            <div class="wrapper-problem-response" tabindex="-1" aria-label="Question 15" role="group"><div class="choicegroup capa_inputtype" id="inputtype_cf929d8f9c114da8a2ae78fb0d61d9b5_16_1">
+    <fieldset aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_16_1">
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_16_1-choice_0-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_16_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_16_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_16_1_choice_0" class="field-input input-radio" value="choice_0"/> Someone
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_16_1-choice_1-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_16_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_16_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_16_1_choice_1" class="field-input input-radio" value="choice_1"/> No one
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_16_1-choice_2-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_16_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_16_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_16_1_choice_2" class="field-input input-radio" value="choice_2"/> Anyone
+            </label>
+          </div>
+          <div class="field">
+            
+
+            <label id="cf929d8f9c114da8a2ae78fb0d61d9b5_16_1-choice_3-label" class="response-label field-label label-inline" aria-describedby="status_cf929d8f9c114da8a2ae78fb0d61d9b5_16_1">
+                <input type="radio" name="input_cf929d8f9c114da8a2ae78fb0d61d9b5_16_1" id="input_cf929d8f9c114da8a2ae78fb0d61d9b5_16_1_choice_3" class="field-input input-radio" value="choice_3"/> A lot of
+            </label>
+          </div>
+        <span id="answer_cf929d8f9c114da8a2ae78fb0d61d9b5_16_1"/>
+    </fieldset>
+    <div class="indicator-container">
+            
+
+<span class="status unanswered" id="status_cf929d8f9c114da8a2ae78fb0d61d9b5_16_1" data-tooltip="Not yet answered.">
+  <span class="sr">unanswered</span><span class="status-icon" aria-hidden="true"/>
+</span>
+
+    </div>
+</div></div>
+                    </div>
+  <div class="action">
+    <input type="hidden" name="problem_id" value="Trắc nghiệm cuối bài" />
+
+    <div class="submit-attempt-container">
+      <button type="button" class="submit btn-brand" data-submitting="Submitting" data-value="Submit" data-should-enable-submit-button="True" aria-describedby="submission_feedback_cf929d8f9c114da8a2ae78fb0d61d9b5" >
+          <span class="submit-label">Submit</span>
+      </button>
+      <div class="submission-feedback" id="submission_feedback_cf929d8f9c114da8a2ae78fb0d61d9b5">
+        <span class="sr">Some problems have options such as save, reset, hints, or show answer. These options follow the Submit button.</span>
+      </div>
+    </div>
+    <div class="problem-action-buttons-wrapper">
+    </div>
+  </div>
+    
+
+
+<div class="notification warning notification-gentle-alert
+      is-hidden"
+     tabindex="-1">
+    <span class="icon fa fa-exclamation-circle" aria-hidden="true"></span>
+    <span class="notification-message" aria-describedby="cf929d8f9c114da8a2ae78fb0d61d9b5-problem-title">
+    </span>
+    <div class="notification-btn-wrapper">
+        <button type="button" class="btn btn-default btn-small notification-btn review-btn sr">Review</button>
+    </div>
+</div>
+
+    
+
+
+<div class="notification warning notification-save
+      is-hidden"
+     tabindex="-1">
+    <span class="icon fa fa-save" aria-hidden="true"></span>
+    <span class="notification-message" aria-describedby="cf929d8f9c114da8a2ae78fb0d61d9b5-problem-title">None
+    </span>
+    <div class="notification-btn-wrapper">
+        <button type="button" class="btn btn-default btn-small notification-btn review-btn sr">Review</button>
+    </div>
+</div>
+
+    
+    
+
+
+<div class="notification general notification-show-answer
+      is-hidden"
+     tabindex="-1">
+    <span class="icon fa fa-info-circle" aria-hidden="true"></span>
+    <span class="notification-message" aria-describedby="cf929d8f9c114da8a2ae78fb0d61d9b5-problem-title">Answers are displayed within the problem
+    </span>
+    <div class="notification-btn-wrapper">
+        <button type="button" class="btn btn-default btn-small notification-btn review-btn sr">Review</button>
+    </div>
+</div>
+
+</div>
