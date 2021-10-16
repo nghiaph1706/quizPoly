@@ -45,8 +45,8 @@
                       <Group type="102" attributes="0">
                           <Component id="txtPath" min="-2" pref="321" max="-2" attributes="0"/>
                           <EmptySpace type="separate" max="-2" attributes="0"/>
-                          <Component id="btnChoose" min="-2" pref="99" max="-2" attributes="0"/>
-                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Component id="btnChoose" min="-2" pref="111" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
                           <Component id="btnStart" min="-2" pref="101" max="-2" attributes="0"/>
                           <EmptySpace min="0" pref="592" max="32767" attributes="0"/>
                       </Group>
