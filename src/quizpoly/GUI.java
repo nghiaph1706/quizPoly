@@ -53,6 +53,12 @@ public class GUI extends javax.swing.JFrame {
                 quesCont+=quesAudio;
             } catch (Exception e) {
             }
+            try {
+                Elements elmsPolyImage = elmsPolyBody.get(i).getElementsByClass("poly-img");
+                String quesImage ="\n"+ elmsPolyImage.get(0).getElementsByTag("img").toString();
+                quesCont+=quesImage;
+            } catch (Exception e) {
+            }
             Questions questions = new Questions(quesNum, quesCont);
             list_quest.add(questions);
         }
