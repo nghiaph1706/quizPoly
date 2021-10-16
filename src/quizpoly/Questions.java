@@ -2,22 +2,12 @@
 package quizpoly;
 
 public class Questions {
-    int quesNum;
-    String quesCont;
-    Answer answer;
+    private int quesNum;
+    private String quesCont;
 
-    public Questions(int quesNum, String quesCont, Answer answer) {
+    public Questions(int quesNum, String quesCont) {
         this.quesNum = quesNum;
         this.quesCont = quesCont;
-        this.answer = answer;
-    }
-
-    public int getQuesNum() {
-        return quesNum;
-    }
-
-    public void setQuesNum(int quesNum) {
-        this.quesNum = quesNum;
     }
 
     public String getQuesCont() {
@@ -28,13 +18,13 @@ public class Questions {
         this.quesCont = quesCont;
     }
 
-    public Answer getAnswer() {
-        return answer;
+    public int getQuesNum() {
+        return quesNum;
     }
 
-    public void setAnswer(Answer answer) {
-        this.answer = answer;
+    public void setQuesNum(int quesNum) {
+        this.quesNum = quesNum;
     }
-    
+
     
 }
