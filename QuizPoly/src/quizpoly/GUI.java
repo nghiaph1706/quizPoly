@@ -67,14 +67,16 @@ public class GUI extends javax.swing.JFrame {
     
     private String enCoderUrl(String courseName){
         try {
-            courseName.replaceAll(" ", "%20");
+            courseName.replaceAll("\\s+","");
             if (courseName.contains("(")) {
                 String part2 =courseName.substring(courseName.indexOf("("),courseName.indexOf(")"))+")";
                 String part1 = courseName.replace(part2, "");
                 part1 = URLEncoder.encode(part1, "UTF-8");
                 String url = api.concat(part1.concat(part2));
+                System.out.println(url);
             }
             String url = api.concat(URLEncoder.encode(courseName, "UTF-8"));
+            System.out.println(url);
             return url.replace("+", "%20");
         } catch (UnsupportedEncodingException ex) {
             Logger.getLogger(GUI.class.getName()).log(Level.SEVERE, null, ex);
